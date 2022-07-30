@@ -3,7 +3,8 @@ title: Huaxin Wang-Lu
 role: Research Assistant
 bio: ""
 interests:
-  - Applied Microeconomics// Development Economics
+  - Applied Microeconomics
+  - Development Economics
 social:
   - icon: envelope
     icon_pack: fas

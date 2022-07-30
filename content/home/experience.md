@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: IQS School of Management
     company_url: ''
-    company_logo:
+    company_logo: ''
     location: Barcelona
     date_start: '2020-09'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Data Analyst
     company: YITU Tech
     company_url: ''
-    company_logo:
+    company_logo: ''
     location: Shanghai
     date_start: '2019-04'
     date_end: '2019-12'

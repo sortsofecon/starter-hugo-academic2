@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: IQS School of Management
     company_url: ''
-    company_logo: iqs
+    company_logo: url
     location: Barcelona
     date_start: '2020-09'
     date_end: ''

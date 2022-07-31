@@ -1,14 +1,33 @@
 ---
 title: "News: Received SEBAP 2021-2022 Mobility Grant"
-sbtitle: ""
-summary: ""
-authors: []
-tags: [News]
-categories: []
-date: 2022-03-29
-lastmod: 2022-04-15
-featured: false
-draft: false
+summary: Becas de movilidad para investigación, Sociedad Económica Barcelonesa de Amics del País
+tags:
+  - News
+date: '2022-03-29T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: Photo by Ziqing Liao
+  focal_point: Smart
+
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/akaWLHX
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
 ---
 ![Award Ceremony](grant.jpg)
 

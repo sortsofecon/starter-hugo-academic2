@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: IQS School of Management
+    company: IQS School of Management, URL
     company_url: ''
     company_logo: iqs
     location: Barcelona
@@ -33,7 +33,8 @@ experience:
         Responsibilities include:
         
         * Researched Chinese labor migration and child academic development for the Horizon 2020 CHINEQUALJUSTICE project.
-        * Authored three articles with Dr. Octasiano M. Valerio Mendoza, Dr. Flavio Comim, and Dr. Mihály Tamás Borsi.
+        * Authored two articles with Dr. Octasiano M. Valerio Mendoza (URL) and Dr. Flavio Comim (URL & Univ of Cambridge).
+        * Progressed two projects with Dr. Mihály Tamás Borsi (URL) and Dr. Simiao Chen (Heidelberg Univ).
         * Trained and taught 3rd-year double-degree undergraduate students in Econometrics and Forecasting.
 
   - title: Data Analyst

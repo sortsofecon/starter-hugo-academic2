@@ -20,7 +20,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Photo by Ziqing Liao'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -34,8 +34,6 @@ tags:
 categories:
   - Grant
 ---
-![Award Ceremony](grant.jpg)
-
 I am glad to share a piece of news posted in my university's website, "IQS Doctoral Student Huaxin Wanglu Earns SEBAP Grant". Over the past 5-6 years, this fellowship was granted to approx. 5 students at URL. It's a big pleasure to be one of the 13 recipients this year!
 
 > Huaxin Wanglu has earned the Beca Societat Econòmica Barcelonesa d’Amics del País (Barcelona Economics Society Friends of the Country Grant) which was awarded at the Amics del País awards ceremony, held on 29 March at the Barcelona City Council's iconic Saló de Cent conference hall.

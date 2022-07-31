@@ -1,5 +1,5 @@
 ---
-title: "News Sharing: Being 1 of 13 Fellowship Recipients in SEBAP 2021-2022"
+title: "News: Received SEBAP 2021-2022 Mobility Grant"
 sbtitle: ""
 summary: ""
 authors: []

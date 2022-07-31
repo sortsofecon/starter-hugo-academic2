@@ -10,7 +10,7 @@ lastmod: 2022-04-15
 featured: false
 draft: false
 ---
-![Award Ceremony](/static/grant.jpeg)
+![Award Ceremony](/images/grant.jpeg)
 
 I am glad to share a piece of news posted in my university's website, "IQS Doctoral Student Huaxin Wanglu Earns SEBAP Grant". Over the past 5-6 years, this fellowship was granted to approx. 5 students at URL. It's a big pleasure to be one of the 13 recipients this year!
 

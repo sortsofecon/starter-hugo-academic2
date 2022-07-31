@@ -32,4 +32,4 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate at IQS SM, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am now working on a MSCA-funded project and researching labor migration, child development, and well-being, among others. I have also been teaching Econometrics in winter/spring 2022. In my spare time, I like reading and writing novels and excursions. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can figure out.
+I am a PhD candidate at IQS SM, Universitat Ramon Llull. I was born in Shanghai and moved to Europe since 2016. I am hired as a research assistant to Dr. Octasiano Valerio Mendoza, working mainly on a MSCA-funded project. My research lines cover labor migration, child development, human mobility, and COVID-19. I have also taught undergraduates Econometrics. In my leisure time, I'm fond of reading and writing novels and playing billiards. Cruising around the world and pushing the frontiers of knowledge are the coolest things I can figure out.

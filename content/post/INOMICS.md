@@ -34,7 +34,7 @@ tags:
 categories:
   - Article
 ---
-In 28th July, I submitted a short article to INOMICS, discussing about my musings on doing a second master or predoc RA versus applying to a PhD straight away. This is a question puzzlued me a lot when I was a master's student. In this article, I summarized two common PhD application paths usually with funding opportunities and attempted to draw some insights from my personal experience and observations. The editor, Sean McClung, and the managing director, Christopher Nash, provided valuable comments on improving the quality of the article. After several rounds of edits, I am glad to announce that it got published on 29th August. 
+On 28th July, I submitted a short article to INOMICS, discussing about my musings on doing a second master or predoc RA versus applying to a PhD straight away. This is a question puzzled me a lot when I was a master's student. In this article, I summarized two common PhD application paths usually with funding opportunities and attempted to draw some insights from my personal experience and observations. The editor, Sean McClung, and the managing director, Christopher Nash, provided valuable comments on improving the quality of the article. After several rounds of edits, I am glad to announce that it got published on 29th August.
 
 > Due to COVID-19, PhD applicants over the past two years have had quite difficult application periods. It seems common now for students to apply to a range of universities and not be accepted to any of them. In fact, even without this exogenous pandemic factor, admission to economics PhD programs has been becoming increasingly difficult as a result of the excess supply of PhD applicants.
 >

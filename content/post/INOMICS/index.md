@@ -44,5 +44,5 @@ On 28th July, I submitted a short article to INOMICS, discussing about my musing
 >
 > As a current PhD student who has fairly recently experienced the application process, and who has quite a few friends and peers who have also had this experience, I’m sharing this overview to help others who are considering a PhD. This article is specifically for those students who are not sure whether to apply to a PhD straight away, or to extend their predoc career first.
 
-Full article can be accessed at <https://inomics.com/advice/should-you-prolong-your-predoc-life-1527861>.
+[Full article can be accessed here.](https://inomics.com/advice/should-you-prolong-your-predoc-life-1527861)
  

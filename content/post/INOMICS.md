@@ -6,10 +6,10 @@ summary: Should you prolong your predoc life?
 projects: []
 
 # Date published
-date: 2022-09-02
+date: "2022-09-02T00:00:00Z"
 
 # Date updated
-lastmod: 2022-09-02
+lastmod: "2022-09-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

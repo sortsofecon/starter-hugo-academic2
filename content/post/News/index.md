@@ -44,4 +44,4 @@ I am glad to share a piece of news posted in my university's website, "IQS Docto
 > 
 > The €4,200 research mobility grant will enable her to study at the Heidelberg Institute of Global Health, under the supervision of Dr. Simiao Chen, with the aim of expanding her studies from a health perspective.
 
-[English version can be accessed here.](https://www.iqs.edu/en/noticia/iqs-doctoral-student-huaxin-wanglu-earns-sebap-grant)
+[Full English version can be accessed here.](https://www.iqs.edu/en/noticia/iqs-doctoral-student-huaxin-wanglu-earns-sebap-grant)

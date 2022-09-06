@@ -25,9 +25,6 @@ education:
     - course: MSc in Economics
       institution: Universität Konstanz
       year: 2019
-    - course: BSc in Insurance
-      institution: Shanghai Lixin University of Accounting & Finance
-      year: 2016
 email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true

@@ -21,7 +21,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Universitat Ramon Llull
-      year: 0
+      year: 2023
     - course: MSc in Economics
       institution: Universität Konstanz
       year: 2019

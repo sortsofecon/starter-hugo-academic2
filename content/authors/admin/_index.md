@@ -29,7 +29,7 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I'm a third-year PhD candidate at Universitat Ramon Llull. My research embraces migration and mobility, human development, and COVID-19. I have participated in two research projects funded, respectively, by the Marie Skłodowska-Curie Actions and the Spanish Ministry of Science, Innovation and Universities (PI: Dr. Octasiano Valerio Mendoza). In addition, I have taught undergraduate Econometrics. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
+I'm a third-year PhD candidate at Universitat Ramon Llull. My research embraces migration and mobility, human development, and COVID-19. I have participated in two research projects funded, respectively, by the Marie Skłodowska-Curie Actions and the Spanish Ministry of Science, Innovation and Universities (PI: Dr. Octasiano Valerio Mendoza). As part of my PhD, I have also taught undergraduate Econometrics. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
 
 {{< icon name="paper-plane" pack="fas" >}} News: I am expected to do a research stay at Heidelberg University next semester.
 

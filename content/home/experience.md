@@ -35,7 +35,7 @@ experience:
         * Researched Chinese labor migration and child development for the Horizon 2020 CHINEQUALJUSTICE project.
         * Authored two articles with Dr. Octasiano M. Valerio Mendoza (URL) and Dr. Flavio Comim (URL & U. of Cambridge).
         * Developed three research projects with Dr. Mihály Tamás Borsi (URL), Dr. Simiao Chen (Heidelberg U.), and Dr. Jack W. Hou (California State U.), respectively.
-        * Trained and taught 3rd-year double-degree undergraduate students in Econometrics and Forecasting [Demo: teaching recording](https://drive.google.com/file/d/1qSREHCQwwsrL2SCAnHrtJpTaT-Q2xwGG/view?usp=sharing).
+        * Trained and taught 3rd-year double-degree undergraduate students in Econometrics and Forecasting / [Demo: teaching recording](https://drive.google.com/file/d/1qSREHCQwwsrL2SCAnHrtJpTaT-Q2xwGG/view?usp=sharing).
         * Graded 1st-year undergraduate students in Applied Mathematics and proctored their exams.
 
   - title: Data Analyst

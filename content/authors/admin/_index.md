@@ -33,4 +33,4 @@ I'm a third-year PhD candidate at Universitat Ramon Llull. My research embraces 
 
 {{< icon name="paper-plane" pack="fas" >}} News: I am expected to do a research stay at Heidelberg University next semester.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}} and/or the updated version of my {{< staticref "uploads/working_paper.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}.

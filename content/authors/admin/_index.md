@@ -29,6 +29,6 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I'm a third-year PhD candidate at Universitat Ramon Llull. My research embraces human development with emphasis on physical and non-physical mobility. Specifically, it spans over three strands, migration, education, and health. To date, I have been a contributor of three research projects, two of which are funded by the Marie Skłodowska-Curie Actions. As part of my PhD, I have taught undergraduate Econometrics. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
+I'm a third-year PhD candidate at Universitat Ramon Llull. My research embraces human development with emphasis on physical and non-physical mobility. Specifically, it spans over three strands, migration, education, and health (COVID-19). To date, I have been a contributor of three research projects, two of which are funded by the Marie Skłodowska-Curie Actions. As part of my PhD, I have taught undergraduate Econometrics. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.

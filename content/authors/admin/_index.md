@@ -1,6 +1,6 @@
 ---
 title: Huaxin Wang-Lu
-role: Research Assistant
+role: PhD Candidate
 bio: ""
 interests:
   - Applied Microeconomics

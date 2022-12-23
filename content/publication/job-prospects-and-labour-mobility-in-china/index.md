@@ -40,9 +40,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  alt_text: The Appendix's table names of the web version contain a few minor
-    editing errors. If you're interested in this research, it would be
-    appreciated if you could download the pdf to get the access to a better
-    version.
+  alt_text: ""
 date: 2022-12-22T23:46:05.117Z
 ---
+The Appendix's table names of the web version contain a few minor editing errors. If you're interested in this research, it would be appreciated if you could download the pdf to get the access to a better version.

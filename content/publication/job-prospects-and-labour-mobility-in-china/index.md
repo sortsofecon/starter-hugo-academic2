@@ -40,8 +40,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  alt_text: "Left: labour migrants in the secondary sector; Right: labour migrants
-    in the tertiary sector"
+  alt_text: ""
   caption: Province boundary map – emigration distribution
 date: 2022-12-22T23:46:05.117Z
 ---

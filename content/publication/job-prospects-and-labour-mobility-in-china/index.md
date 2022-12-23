@@ -39,6 +39,6 @@ projects:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2022-12-22T23:46:05.117Z
 ---

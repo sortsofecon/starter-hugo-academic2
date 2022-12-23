@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Huaxin Wang-Lu
   - Octasiano Miguel Valerio Mendoza
+author_notes: []
 doi: 10.1080/09638199.2022.2157463
 publication: "The Journal of International Trade & Economic Development "
 abstract: China's structural changes have brought new challenges to its regional
@@ -38,7 +39,7 @@ projects:
   - PoPMeD-SuSDeV
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
   alt_text: "Left: labour migrants in the secondary sector; Right: labour migrants
     in the tertiary sector"

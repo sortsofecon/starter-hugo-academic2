@@ -41,9 +41,9 @@ image:
   filename: featured.jpg
   focal_point: CENTER
   preview_only: false
-  alt_text: "Left: labour migrants in the secondary sector; Right: labour migrants
-    in the tertiary sector"
-  caption: Province boundary map – emigration distribution
+  alt_text: ""
+  caption: Province boundary map – emigration distribution (secondary & tertiary
+    sectors)
 date: 2022-12-22T23:46:05.117Z
 ---
 Notes: In the web version, some table names in the Appendix contain a few minor editing errors. If you're interested in this research, it would be appreciated if you could download the pdf to get the access to a better-edited version.

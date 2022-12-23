@@ -30,14 +30,14 @@ abstract: China's structural changes have brought new challenges to its regional
   between cities, providing important insights for regional policymakers to
   prevent brain drain and to attract relevant talent.
 draft: false
-featured: true
+featured: false
 categories:
   - Migration
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV
 image:
-  filename: map_ter2_page-0001.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-12-22T23:46:05.117Z

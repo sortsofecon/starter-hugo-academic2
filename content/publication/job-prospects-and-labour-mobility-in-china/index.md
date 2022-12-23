@@ -30,7 +30,7 @@ abstract: China's structural changes have brought new challenges to its regional
   between cities, providing important insights for regional policymakers to
   prevent brain drain and to attract relevant talent.
 draft: false
-featured: false
+featured: true
 categories:
   - Migration
 projects:

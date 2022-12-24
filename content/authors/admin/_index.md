@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/akaWLHX
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=n3k1s44AAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=AWvgCAoAAAAJ
 organizations:
   - name: Universitat Ramon Llull
 education:

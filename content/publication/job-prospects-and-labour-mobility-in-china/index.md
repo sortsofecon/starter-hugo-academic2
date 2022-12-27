@@ -5,9 +5,10 @@ publication_types:
 authors:
   - Huaxin Wang-Lu
   - Octasiano Miguel Valerio Mendoza
-author_notes: []
+author_notes:
+  - Open Access
 doi: 10.1080/09638199.2022.2157463
-publication: The Journal of International Trade & Economic Development [Open Access]
+publication: The Journal of International Trade & Economic Development
 abstract: China's structural changes have brought new challenges to its regional
   employment structures, entailing labour redistribution. Until now, Chinese
   migration research with a forward-looking perspective and on bilateral

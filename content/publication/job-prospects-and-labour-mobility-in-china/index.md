@@ -1,12 +1,12 @@
 ---
 title: Job prospects and labour mobility in China
+subtitle: ""
 publication_types:
   - "2"
 authors:
   - Huaxin Wang-Lu
   - Octasiano Miguel Valerio Mendoza
-author_notes:
-  - Open Access
+author_notes: []
 doi: 10.1080/09638199.2022.2157463
 publication: The Journal of International Trade & Economic Development
 abstract: China's structural changes have brought new challenges to its regional
@@ -33,6 +33,8 @@ abstract: China's structural changes have brought new challenges to its regional
   prevent brain drain and to attract relevant talent.
 draft: false
 featured: false
+tags:
+  - Open Access
 categories:
   - Migration
 projects:

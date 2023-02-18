@@ -5,6 +5,8 @@ bio: ""
 interests:
   - Applied Microeconomics
   - Development Economics
+  - Health Economics
+  - Economic Geography
 social:
   - icon: envelope
     icon_pack: fas

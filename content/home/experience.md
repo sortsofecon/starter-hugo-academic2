@@ -30,7 +30,7 @@ experience:
     date_start: '2020-09-10'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities include but not limited to:
         
         * Researched Chinese labor migration and child development for the Horizon 2020 CHINEQUALJUSTICE project.
         * Authored articles with Prof. Mihály Tamás Borsi (URL), Simiao Chen (Heidelberg U.), Flavio Comim (URL & U. of Cambridge), and Octasiano M. Valerio Mendoza (URL).

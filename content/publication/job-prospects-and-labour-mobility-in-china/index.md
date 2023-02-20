@@ -48,4 +48,4 @@ image:
   caption: Emigration distribution (secondary & tertiary sectors)
 date: 2022-12-22T23:46:05.117Z
 ---
-Notes: In the web version, some table names in the Appendix contain a few minor editing errors. If you're interested in this research, it would be appreciated if you could download the pdf to get the access to a better-edited version.
+Notes: In the web version, the names of some tables in the Appendix contain a few editing errors. If you're interested in this article, it would be appreciated if you could download it to get the access to a better-edited version.

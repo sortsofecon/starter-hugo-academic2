@@ -25,7 +25,7 @@ education:
       institution: Ramon Llull University
       year: 2020—present
     - course: MSc in Economics
-      institution: Universität Konstanz
+      institution: University of Konstanz
       year: 2019
 email: huaxin.wanglu@gmail.com
 superuser: true

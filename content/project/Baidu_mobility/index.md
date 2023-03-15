@@ -1,8 +1,9 @@
 ---
-title: "Map"
-output: md_document
+title: "Untitled"
+output: html_document
 date: "2023-03-15"
 ---
+
 
 ```{r setup, include=FALSE}
 library(shiny)
@@ -318,7 +319,6 @@ server <- function(input, output, session) {
                           paste0(labels20)
                         })
     }}}})
-  
 }
 
 

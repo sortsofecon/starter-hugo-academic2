@@ -2,7 +2,6 @@
 title: "Map"
 output: md_document
 date: "2023-03-15"
-runtime: shiny
 ---
 
 ```{r setup, include=FALSE}

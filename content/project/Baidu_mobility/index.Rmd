@@ -19,7 +19,7 @@ library(tmap)    # for static and interactive maps
 library(leaflet) # for interactive maps
 library(ggplot2) # tidyverse data visualization package
 
-states <- geojsonio::geojson_read("/Users/huaxinwanglu/Desktop/Mobility_Convergence/Map/data/merge__china-city__new.geojson", what = "sp")
+states <- geojsonio::geojson_read("merge__china-city__new.geojson", what = "sp")
 class(states)
 
 ## check objects in the data

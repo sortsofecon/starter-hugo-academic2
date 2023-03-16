@@ -4,4 +4,4 @@ date: "2023-03-15"
 ---
 
 
-<iframe height="1000" width="1000" frameborder="yes" src=" https://huaxinwanglu.shinyapps.io/data/"> </iframe>
+<iframe height="800" width="600" frameborder="no" src=" https://huaxinwanglu.shinyapps.io/data/"> </iframe>

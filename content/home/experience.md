@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research and Teaching Assistant
-    company: IQS School of Management, URL
+  - title: Research & Teaching Assistant
+    company: IQS School of Management, Ramon Llull University
     company_url: ''
     company_logo: iqs
     location: Barcelona
-    date_start: '2020-09-10'
-    date_end: ''
+    date_start: '2020-09-01'
+    date_end: '2023-08-31'
     description: |2-
         Responsibilities include but not limited to:
         
-        * Researched Chinese labor migration and child development for the Horizon 2020 CHINEQUALJUSTICE project.
-        * Authored articles with Prof. Mihály Tamás Borsi (URL), Simiao Chen (Heidelberg U.), Flavio Comim (URL & U. of Cambridge), and Octasiano M. Valerio Mendoza (URL).
-        * Presented research outcomes at a wide rage of international conferences, symposiums and workshops.
+        * Researched Chinese labor migration, child development, and travel dynamics for the Horizon 2020 CHINEQUALJUSTICE (ID: 101086139) & PoPMeD-SuSDeV (ID: 838534) projects.
+        * Authored 4 articles with Prof. Mihály Tamás Borsi (IQS), Simiao Chen (Heidelberg U.), Flavio Comim (IQS & U. of Cambridge), and Octasiano M. Valerio Mendoza (IQS).
+        * Presented research outcomes at international conferences, symposiums and workshops.
         * Trained, taught and graded 3rd-year double-degree undergraduate students in Econometrics and Forecasting, and proctored their exams / [Previous teaching recording [1.25x speed]](https://drive.google.com/file/d/1qSREHCQwwsrL2SCAnHrtJpTaT-Q2xwGG/view?usp=sharing).
         * Trained and graded 1st-year undergraduate students in Applied Mathematics, and proctored their exams.
 
@@ -44,7 +44,7 @@ experience:
     company_logo: yitu
     location: Shanghai
     date_start: '2019-04-19'
-    date_end: '2019-12-08'
+    date_end: '2019-12-06'
     description: Operated databases, prepared SQL and Qlik Sense scripts for business analyses, visualized data with interactive dashboards, wrote weekly reports and assisted in product development, etc.
 
 design:

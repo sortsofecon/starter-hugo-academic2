@@ -20,4 +20,4 @@ date: "2023-03-15"
 
 Please note loading the dashboard for the first time may take 10 to 30 seconds. Thank you for the patience.
 
-This is to showcase the R Shiny dashboard I built for visualizing intra-city travel behaviors at the cluster level assessed with the Phillips and Sul (2007, 2009) approach. The dashboard complements the static maps our latest working paper presents in a very readable way. To enlarge the view, right click the map to open a new tab.
+This is to showcase the R Shiny dashboard I built for visualizing intra-city travel rates at the cluster level assessed with the Phillips and Sul (2007, 2009) approach. The dashboard complements the static maps our latest working paper presents in a very readable way. To enlarge the view, right click the map to open a new tab.

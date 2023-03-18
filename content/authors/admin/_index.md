@@ -31,6 +31,6 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I'm a third-year PhD candidate at Ramon Llull University. My research embraces human and economic mobility. I have studied and worked in four countries and been a contributor of two EU Horizon research projects. As part of my PhD, I have tutored and taught undergraduate-level courses. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
+I'm a third-year PhD candidate at Ramon Llull University. My research embraces human and economic mobility. I have studied and worked in four countries and contributed to three research projects, two of which are funded through EU Horizon. As part of my PhD, I have tutored and taught undergraduate-level courses. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.

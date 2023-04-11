@@ -1,5 +1,5 @@
 ---
-title: "[Showcase] Dashboard: Intra-city mobility dynamics surrounding the Zero-COVID policy and reopening in China"
+title: "[Showcase] Dashboard: Intra-city mobility dynamics and commuting behaviors surrounding the Zero-COVID policy and reopening in China"
 authors:
   - Huaxin Wang-Lu
   - Mihály Tamás Borsi

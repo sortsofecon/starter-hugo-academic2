@@ -33,9 +33,9 @@ experience:
         Responsibilities include but not limited to:
         
         * Researched Chinese labor migration, child development, and travel dynamics for the Horizon 2020 CHINEQUALJUSTICE (ID: 101086139) & PoPMeD-SuSDeV (ID: 838534) projects.
-        * Authored 4 articles with Prof. Mihály Tamás Borsi (IQS), Simiao Chen (Heidelberg U.), Flavio Comim (IQS & U. of Cambridge), and Octasiano M. Valerio Mendoza (IQS).
+        * Co-authored articles with Prof. Mihály Tamás Borsi (IQS), Simiao Chen (Heidelberg U.), Flavio Comim (IQS & U. of Cambridge), and Octasiano M. Valerio Mendoza (IQS).
         * Presented research outcomes at international conferences, symposiums and workshops.
-        * Trained, taught and graded 3rd-year double-degree undergraduate students in Econometrics and Forecasting, and proctored their exams / [Previous teaching recording [1.25x speed]](https://drive.google.com/file/d/1qSREHCQwwsrL2SCAnHrtJpTaT-Q2xwGG/view?usp=sharing).
+        * Trained, taught and graded 3rd-year double-degree undergraduate students in Econometrics and Forecasting, and proctored their exams.
         * Trained and graded 1st-year undergraduate students in Applied Mathematics, and proctored their exams.
 
   - title: Data Analyst

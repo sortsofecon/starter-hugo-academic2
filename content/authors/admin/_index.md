@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Economics and Territorial Competitiveness
       institution: Ramon Llull University
-      year: 2020—present
+      year: 2023
     - course: MSc in Economics
       institution: University of Konstanz
       year: 2019

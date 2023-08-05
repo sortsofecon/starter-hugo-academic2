@@ -31,6 +31,6 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I received my PhD from Ramon Llull University and will join Xi'an Jiaotong-Liverpool University as an Assistant Professor this upcoming September. My research embraces human and economic mobility. I have studied and worked in four countries and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program for research and innovation. As part of my PhD, I have tutored and taught undergraduate-level courses. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
+My research embraces human and economic mobility. I have studied and worked in four countries and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program for research and innovation. As part of my PhD, I have tutored and taught undergraduate-level courses. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.

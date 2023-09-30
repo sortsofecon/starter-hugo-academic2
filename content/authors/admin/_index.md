@@ -31,6 +31,6 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-My research embraces human and economic mobility. I have studied and worked in four countries and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program for research and innovation. As part of my PhD, I have tutored and taught undergraduate-level courses. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
+I'm an Assistant Professor at Xi'an Jiaotong-Liverpool University. My research embraces human and economic mobility. I have studied and worked in four countries and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program for research and innovation. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.

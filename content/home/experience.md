@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: iqs
     location: Barcelona
-    date_start: '2020-09'
-    date_end: '2023-09'
+    date_start: '2020-09-01'
+    date_end: '2023-09-22'
     description: |2-
         Responsibilities include but not limited to:
         
@@ -43,8 +43,8 @@ experience:
     company_url: ''
     company_logo: yitu
     location: Shanghai
-    date_start: '2019-04'
-    date_end: '2019-12'
+    date_start: '2019-04-19'
+    date_end: '2019-12-06'
     description: Operated databases, prepared SQL and Qlik Sense scripts for business analyses, visualized data with interactive dashboards, wrote weekly reports and assisted in product development, etc.
 
 design:

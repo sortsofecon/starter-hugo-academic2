@@ -27,13 +27,13 @@ experience:
     company_url: ''
     company_logo: iqs
     location: Barcelona
-    date_start: '2020-09-01'
-    date_end: '2023-08-31'
+    date_start: '2020-09'
+    date_end: '2023-09'
     description: |2-
         Responsibilities include but not limited to:
         
         * Researched Chinese labor migration, child development, and travel dynamics for the Horizon 2020 CHINEQUALJUSTICE (ID: 101086139) & PoPMeD-SuSDeV (ID: 838534) projects.
-        * Co-authored articles with Prof. Mihály Tamás Borsi (IQS), Simiao Chen (Heidelberg U.), Flavio Comim (IQS & U. of Cambridge), and Octasiano M. Valerio Mendoza (IQS).
+        * Co-authored articles with Prof. Mihály Tamás Borsi (IQS), Simiao Chen (Heidelberg U.), Flavio Comim (IQS & U. of Cambridge), and Octasiano M. Valerio Mendoza (IQS). [alphabetically listed]
         * Presented research outcomes at international conferences, symposiums and workshops.
         * Trained, taught and graded 3rd-year double-degree undergraduate students in Econometrics and Forecasting, and proctored their exams.
         * Trained and graded 1st-year undergraduate students in Applied Mathematics, and proctored their exams.
@@ -43,8 +43,8 @@ experience:
     company_url: ''
     company_logo: yitu
     location: Shanghai
-    date_start: '2019-04-19'
-    date_end: '2019-12-06'
+    date_start: '2019-04'
+    date_end: '2019-12'
     description: Operated databases, prepared SQL and Qlik Sense scripts for business analyses, visualized data with interactive dashboards, wrote weekly reports and assisted in product development, etc.
 
 design:

@@ -3,10 +3,8 @@ title: Huaxin Wang-Lu
 role:
 bio: ""
 interests:
-  - Applied Microeconomics
-  - Development Economics
-  - Health Economics
-  - Economic Geography
+  - Development Studies
+  - Regional Science and Urban Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +16,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=AWvgCAoAAAAJ
 organizations:
-  - name: Universitat Ramon Llull
+  - name: Xi'an Jiaotong-Liverpool University
 education:
   courses:
     - course: PhD in Economics and Territorial Competitiveness
@@ -31,6 +29,6 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I'm an Assistant Professor at Xi'an Jiaotong-Liverpool University. My research embraces human and economic mobility. I have studied and worked in four countries and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program for research and innovation. During my leisure time, I enjoy reading and writing novels and playing billiards. Traveling the world and pushing the frontiers of knowledge are the coolest things I've ever understood.
+I'm an Assistant Professor at Xi'an Jiaotong-Liverpool University. My research embraces human and economic mobility. I have studied and worked in China, Germany, Britain, and Spain, and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program. During my leisure time, I enjoy reading and writing novels and playing billiards. Publishing papers is my goal, while publishing my fiction is the dream.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.

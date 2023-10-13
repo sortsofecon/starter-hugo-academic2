@@ -5,6 +5,7 @@ bio: ""
 interests:
   - Development Studies
   - Regional Science and Urban Economics
+  - Demographic Economics
 social:
   - icon: envelope
     icon_pack: fas

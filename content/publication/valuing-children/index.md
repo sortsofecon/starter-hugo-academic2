@@ -1,5 +1,5 @@
 ---
-title: Valuing Children: Parents’ Perceptions, Spending Priorities and Children’s Capabilities
+title: Valuing Children: Parents' Perceptions, Spending Priorities and Children's Capabilities
 subtitle: ""
 publication_types:
   - "2"
@@ -25,6 +25,6 @@ image:
   focal_point: CENTER
   preview_only: false
   alt_text: ""
-  caption: 
+  caption: ""
 date: 2024-03-01
 ---

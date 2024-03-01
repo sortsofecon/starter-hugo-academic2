@@ -16,12 +16,12 @@ featured: false
 tags:
   - Open Access
 categories:
-  - Migration
+  - Child Development
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV
 image:
-  filename: featured.jpg
+  filename:
   focal_point: CENTER
   preview_only: false
   alt_text: ""

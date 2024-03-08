@@ -1,5 +1,5 @@
 ---
-title: Intra-city mobility dynamics and commuting behaviors surrounding the Zero-COVID policy and reopening in China
+title: 
 subtitle: ""
 publication_types:
   - "2"

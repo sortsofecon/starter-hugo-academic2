@@ -41,7 +41,7 @@ projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV
 image:
-  filename: 
+  filename: ""
   focal_point: CENTER
   preview_only: false
   alt_text: ""

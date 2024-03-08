@@ -1,5 +1,8 @@
 ---
 title: Intra-city mobility dynamics and commuting behaviors surrounding the Zero-COVID policy and reopening in China
+subtitle: ""
+publication_types:
+  - "2"
 authors:
   - Huaxin Wang-Lu
   - Mihály Tamás Borsi

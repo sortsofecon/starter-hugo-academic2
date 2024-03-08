@@ -28,7 +28,7 @@ experience:
     company_logo: xjtlu
     location: Suzhou
     date_start: '2023-09-18'
-    date_end: 'present'
+    date_end: ''
     description: Research the application of HeXie management theory to broader social contexts and teach Master's level courses.
     
   - title: Research & Teaching Assistant

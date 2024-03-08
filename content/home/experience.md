@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Xi'an Jiaotong-Liverpool University
+    company_url: ''
+    company_logo: xjtlu
+    location: Suzhou
+    date_start: '2023-09-18'
+    date_end: 'present'
+    description:
+    
   - title: Research & Teaching Assistant
     company: IQS School of Management, Ramon Llull University
     company_url: ''

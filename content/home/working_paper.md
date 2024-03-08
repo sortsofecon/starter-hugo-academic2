@@ -1,7 +1,7 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: featured
 
 # This file represents a page section.
 headless: true
@@ -13,26 +13,24 @@ title: Working Papers
 subtitle: ''
 
 content:
-  # Filter on criteria
-  filters:
-    folders:
-      - working_paper
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
+  # Page type to display. E.g. post, talk, publication...
+  page_type: working_paper
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
+  # Filter on criteria
+  filters:
+    author: ''
+    category: ''
+    publication_type: ''
+    tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 3
 ---
-

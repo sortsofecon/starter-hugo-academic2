@@ -34,7 +34,7 @@ tags:
 categories:
   - Grant
 ---
-I am glad to share a piece of news posted in my university's website, "IQS Doctoral Student Huaxin Wanglu Earns SEBAP Grant". Over the past 5-6 years, this fellowship was granted to approx. 5 students at URL. It's a big pleasure to be one of the 13 recipients this year!
+I am pleased to share a piece of news posted on my university's website: "IQS Doctoral Student Huaxin Wanglu Earns SEBAP Grant." Over the past 5-6 years, this fellowship has been granted to approximately 5 students at URL. It is a great honor to be one of the 13 recipients this year!
 
 > Huaxin Wanglu has earned the Beca Societat Econòmica Barcelonesa d’Amics del País (Barcelona Economics Society Friends of the Country Grant) which was awarded at the Amics del País awards ceremony, held on 29 March at the Barcelona City Council's iconic Saló de Cent conference hall.
 > 

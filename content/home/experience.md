@@ -29,7 +29,7 @@ experience:
     location: Suzhou
     date_start: '2023-09-18'
     date_end: ''
-    description: Research the application of HeXie management theory to broader social contexts and teach Master's level courses.
+    description: Research the application of HeXie management theory to broader social contexts and teach Master's level courses, among others.
     
   - title: Research & Teaching Assistant
     company: IQS School of Management, Ramon Llull University

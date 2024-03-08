@@ -27,15 +27,15 @@ content:
   # Contact details (edit or remove options as required)
   email: huaxin.wanglu@gmail.com
   address:
-    street: Via Augusta 390
-    city: Barcelona
+    street:
+    city:
     region:
-    postcode: '08017'
-    country: Spain
-    country_code: ES
+    postcode:
+    country:
+    country_code:
   coordinates:
-    latitude: '41.397766'
-    longitude: '2.135378'
+    latitude:
+    longitude:
   office_hours:
     - By appointment
 

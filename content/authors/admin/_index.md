@@ -30,6 +30,6 @@ email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true
 ---
-I'm an Assistant Professor at Xi'an Jiaotong-Liverpool University. My research embraces human and economic mobility. I have studied and worked in China, Germany, Britain, and Spain, and contributed to three research projects, two of which are funded by Horizon Europe, the EU's flagship funding program. During my leisure time, I enjoy reading and writing novels and playing billiards. Publishing papers is my goal, while publishing my fiction is the dream.
+I am an Assistant Professor at Xi'an Jiaotong-Liverpool University. My research primarily focuses on human development and economic mobility. I have studied and worked in China, Germany, Britain, and Spain, and have participated in two Horizon Europe research projects. In my leisure time, I enjoy reading and writing novels, as well as playing billiards. Publishing papers is my goal, while seeing my fiction in print is the dream.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-us.pdf" "newtab" >}}resumé{{< /staticref >}}.

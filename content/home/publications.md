@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Journal Articles
 subtitle: ''
 
 content:
@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: '2'
+    publication_type: ''
     author: ''
     exclude_featured: true
     exclude_future: false

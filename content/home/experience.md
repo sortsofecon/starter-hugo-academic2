@@ -31,11 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include but not limited to:
-
-    * Conducted personal research.
-    * Investigated the application of HeXie management theory to broader social contexts.
-    * Developed curricula and teaching materials.
-    * Taught Master's level courses.
+          * Conducted personal research.
+          * Investigated the application of HeXie management theory to broader social contexts.
+          * Developed curricula and teaching materials.
+          * Taught Master's level courses.
     
   - title: Research & Teaching Assistant
     company: IQS School of Management, Ramon Llull University

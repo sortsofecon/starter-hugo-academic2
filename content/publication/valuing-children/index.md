@@ -14,7 +14,7 @@ abstract: This paper provides a composite analysis of children’s academic deve
 draft: false
 featured: false
 tags:
-  - Open Access
+  - Gold Open Access
 categories:
   - Child Development
 projects:

@@ -14,7 +14,7 @@ abstract: As China’s Zero-COVID policy has come to an end and travel restricti
 draft: false
 featured: true
 tags:
-  - Pre-print
+  - Preprint
 categories:
   - Human Mobility
   - Baidu

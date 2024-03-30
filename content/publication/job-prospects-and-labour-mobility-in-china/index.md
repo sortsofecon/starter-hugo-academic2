@@ -34,7 +34,7 @@ abstract: China's structural changes have brought new challenges to its regional
 draft: false
 featured: false
 tags:
-  - Open Access
+  - Gold Open Access
 categories:
   - Migration
 projects:

@@ -3,17 +3,17 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#0075A2"
+  primary = "#0075A2" # home左边的颜色
 
   # Menu
-  menu_primary = "#3F0D12"
-  menu_text = "#fff"
-  menu_text_active = "#0075A2"
-  menu_title = "#0075A2"
+  menu_primary = "#95E06C" # dropdown menu 的颜色
+  menu_text = "#fff" # dropdown 字体的颜色
+  menu_text_active = "#EEF0EB" # widget 选中时的颜色
+  menu_title = "#EEF0EB"
 
   # Home sections
-  home_section_odd = "fff"
-  home_section_even = "#CBF3F0"
+  home_section_odd = "#EEE0CB" 
+  home_section_even = "#EEE0CB"
   
-  link = "#D56F3E"
-  link_hover = "#8D775F"
+  link = "#E76D83"
+  link_hover = "#E76D83" # 悬停在link上时变化的颜色

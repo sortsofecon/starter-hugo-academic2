@@ -75,7 +75,7 @@ features:
     branch: master
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
@@ -110,9 +110,3 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-
-  # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
-
-  # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"

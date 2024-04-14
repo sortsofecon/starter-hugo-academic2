@@ -3,7 +3,7 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#FFD447" # send和一些勾勒框架的颜色
+  primary = "#E03616" # send和一些勾勒框架的颜色
 
   # Menu
   menu_primary = "#F5853F" # dropdown menu 的颜色
@@ -12,8 +12,8 @@ name = "my_theme"
   menu_title = "#212922"
 
   # Home sections
-  home_section_odd = "#F0F2EF" 
-  home_section_even = "#F0F2EF"
+  home_section_odd = "#F7FFF7" 
+  home_section_even = "#F7FFF7"
   
-  link = "#FFD447"
+  link = "#E03616"
   link_hover = "#53FF45" # 悬停在link上时变化的颜色

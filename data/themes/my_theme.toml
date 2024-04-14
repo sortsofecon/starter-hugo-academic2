@@ -6,7 +6,7 @@ name = "my_theme"
   primary = "#E03616" # send和一些勾勒框架的颜色
 
   # Menu
-  menu_primary = "#F5853F" # dropdown menu 的颜色
+  menu_primary = "#D16014" # dropdown menu 的颜色
   menu_text = "#fff" # dropdown 字体的颜色
   menu_text_active = "#212922" # widget 选中时的颜色
   menu_title = "#212922"

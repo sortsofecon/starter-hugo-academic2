@@ -4,6 +4,10 @@ nav#navbar-main li.nav-item {
   font-size: 22px;
 }
 
-.tweak-blog-item-width-narrow .blog-item-wrapper .blog-item-inner-wrapper {
-    width: 75% !important;
+.article-container {
+  max-width: 850px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  font-size: 18px;
+  text-align: left;
 }

@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: my_font_set
   font_size: L
+  plugins_css: custom
 
 # SEO
 
@@ -109,4 +110,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
 

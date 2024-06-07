@@ -2,4 +2,4 @@ name = "my_font_set"
 
 google_fonts = "family=League+Spartan:wght@100..900"
 
-body_font = "League+Spartan"
+body_font = "League Spartan"

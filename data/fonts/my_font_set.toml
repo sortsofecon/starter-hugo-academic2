@@ -1,6 +1,7 @@
 name = "my_font_set"
 
-google_fonts = "family=Urbanist:ital,wght@0,100..900;1,100..900&family=Quattrocento:wght@400;700"
+google_fonts = "family=Bree+Serif&family=Urbanist:ital,wght@0,100..900;1,100..900&family=Quattrocento:wght@400;700"
 
 heading_font = "Urbanist"
 body_font = "Quattrocento"
+nav_font = "Bree Serif"

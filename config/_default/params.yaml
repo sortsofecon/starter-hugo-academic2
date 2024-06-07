@@ -8,7 +8,7 @@
 appearance:
   theme_day: my_theme
   theme_night: minimal
-  font: Classic
+  font: my_font_set
   font_size: M
 
 # SEO

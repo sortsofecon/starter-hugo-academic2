@@ -4,5 +4,6 @@ nav#navbar-main li.nav-item {
   font-size: 22px;
 }
 
-section#publication div.container{ max-width:700px;}
-
+.tweak-blog-item-width-narrow .blog-item-wrapper .blog-item-inner-wrapper {
+    width: 75% !important;
+}

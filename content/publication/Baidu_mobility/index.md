@@ -10,7 +10,7 @@ authors:
 author_notes: []
 doi: 10.2139/ssrn.4692985
 publication: SSRN
-abstract: [The paper is under major revision]
+abstract: The paper is under major revision.
 draft: false
 featured: true
 tags:

@@ -32,8 +32,8 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '3'
+  view: citation
+  columns: '4'
 ---
 
 {{% callout note %}}

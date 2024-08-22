@@ -2,7 +2,7 @@
 title: "Valuing Children: Parents' Perceptions, Spending Priorities and Children's Capabilities"
 subtitle: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Huaxin Wang-Lu
   - Flavio Comim

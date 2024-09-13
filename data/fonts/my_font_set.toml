@@ -1,8 +1,8 @@
 name = "my_font_set"
 
-google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Quattrocento:wght@400;700&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700"
+google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=SUSE:wght@100..800&display=swap"
 
-heading_font = "Quattrocento"
-body_font = "Quattrocento"
+heading_font = "SUSE"
+body_font = "SUSE"
 nav_font = "Bree Serif"
 mono_font = "Fira Mono"

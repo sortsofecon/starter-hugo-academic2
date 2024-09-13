@@ -46,6 +46,6 @@ image:
   preview_only: false
   alt_text: ""
   caption: Emigration distribution (secondary & tertiary sectors)
-date: 2023
+date: 2023-01-01
 ---
 Notes: In the web version, the names of some tables in the Appendix contain a few editing errors. If you're interested in this article, it would be appreciated if you could download it to get the access to a better-edited version.

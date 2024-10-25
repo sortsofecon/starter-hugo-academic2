@@ -18,6 +18,7 @@ tags:
 categories:
   - Human Mobility
   - Baidu
+  - Difference-in-Differences
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

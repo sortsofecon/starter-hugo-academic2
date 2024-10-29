@@ -3,9 +3,9 @@ title: Huaxin Wang-Lu
 role:
 bio: ""
 interests:
-  - Development Studies
+  - Development Economics
   - Regional Science and Urban Economics
-  - Demographic Economics
+  - Health Economics
 social:
   - icon: envelope
     icon_pack: fas

@@ -23,9 +23,6 @@ education:
     - course: PhD in Economics and Territorial Competitiveness
       institution: Ramon Llull University
       year: 2023
-    - course: MSc in Economics
-      institution: University of Konstanz
-      year: 2019
 email: huaxin.wanglu@gmail.com
 superuser: true
 highlight_name: true

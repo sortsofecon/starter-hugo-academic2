@@ -1,8 +1,8 @@
 name = "my_font_set"
 
-google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Playwrite+IT+Moderna:wght@100..400&display=swap"
+google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Slabo+27px&display=swap"
 
-heading_font = "Playwrite IT Moderna"
-body_font = "Playwrite IT Moderna"
+heading_font = "Slabo 27px"
+body_font = "Slabo 27px"
 nav_font = "Bree Serif"
 mono_font = "Fira Mono"

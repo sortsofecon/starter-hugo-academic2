@@ -1,8 +1,8 @@
 name = "my_font_set"
 
-google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap"
+google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
 
-heading_font = "Sofia Sans"
-body_font = "Sofia Sans"
+heading_font = "Figtree"
+body_font = "Figtree"
 nav_font = "Bree Serif"
 mono_font = "Fira Mono"

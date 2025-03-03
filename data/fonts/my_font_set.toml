@@ -1,8 +1,8 @@
 name = "my_font_set"
 
-google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Slabo+27px&display=swap"
+google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
 
-heading_font = "Slabo 27px"
-body_font = "Slabo 27px"
+heading_font = "Jost"
+body_font = "Jost"
 nav_font = "Bree Serif"
 mono_font = "Fira Mono"

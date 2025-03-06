@@ -1,8 +1,8 @@
 name = "my_font_set"
 
-google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap"
+google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap"
 
-heading_font = "Bricolage Grotesque"
-body_font = "Bricolage Grotesque"
+heading_font = "Andika"
+body_font = "Andika"
 nav_font = "Bree Serif"
 mono_font = "Fira Mono"

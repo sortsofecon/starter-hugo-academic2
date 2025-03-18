@@ -1,5 +1,5 @@
 ---
-title: Land Expropriation, Child Schooling, and Child Housework
+title: "Child Schooling, Child Labor, and Land Expropriation: Evidence from China"
 subtitle: ""
 publication_types:
   - "3"

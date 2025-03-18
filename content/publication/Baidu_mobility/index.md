@@ -1,5 +1,5 @@
 ---
-title: Looking back and forward COVID-19 risks and local travel dynamics
+title: "Looking back and forward: COVID-19 risks and local travel dynamics"
 subtitle: ""
 publication_types:
   - "3"

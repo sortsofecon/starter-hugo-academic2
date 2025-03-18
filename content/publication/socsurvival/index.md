@@ -1,5 +1,5 @@
 ---
-title: Social Capital, Loss Aversion, and Survival Expectations in Older Adults (to be modified)
+title: "To Engage or Not to Engage? Social Activities and Survival Perceptions in Older Adults"
 subtitle: ""
 publication_types:
   - "3"

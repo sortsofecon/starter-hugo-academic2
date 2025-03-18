@@ -2,7 +2,7 @@ name = "my_font_set"
 
 google_fonts = "family=Fira+Mono:wght@400;500;700&family=Bree+Serif&family=Rufina:wght@400;700&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap"
 
-heading_font = "Fira Mono"
+heading_font = "Bree Serif"
 body_font = "Inter Tight"
 nav_font = "Bree Serif"
 mono_font = "Fira Mono"

@@ -16,9 +16,10 @@ featured: true
 tags:
   - Preprint
 categories:
-  - Human Mobility
-  - Baidu
+  - Human mobility
+  - COVID-19
   - Difference-in-Differences
+  - Club convergence
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

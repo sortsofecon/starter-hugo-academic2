@@ -15,6 +15,7 @@ tags:
 categories:
   - Social Capital
   - Subjective Survival
+  - Population aging
   - Difference-in-Differences
 projects:
 image:

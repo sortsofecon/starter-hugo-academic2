@@ -24,5 +24,5 @@ image:
   preview_only: false
   alt_text: ""
   caption: ""
-date: 2025-3-27
+date: 2025-03-27
 ---

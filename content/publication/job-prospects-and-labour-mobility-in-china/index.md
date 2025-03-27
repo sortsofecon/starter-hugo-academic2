@@ -36,7 +36,9 @@ featured: false
 tags:
   - Gold Open Access
 categories:
-  - Migration
+  - Migration decision
+  - Human mobility
+  - Prospect theory
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

@@ -17,6 +17,7 @@ tags:
   - Gold Open Access
 categories:
   - Child Development
+  - Capability approach
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

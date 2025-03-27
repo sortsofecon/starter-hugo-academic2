@@ -1,17 +1,17 @@
 ---
-title: "Child Schooling, Child Labor, and Land Expropriation: Evidence from China"
+title: "Land Expropriation, Child Schooling, and Child Housework: Evidence from China"
 subtitle: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Dongqin Wang
   - Huaxin Wang-Lu
 author_notes: []
 doi:
-publication: Journal of Economic Behavior & Organization (Revise & Resubmit)
+publication: Journal of Economic Behavior & Organization
 abstract:
 draft: false
-featured: true
+featured: false
 tags:
 categories:
   - Child development

@@ -18,6 +18,7 @@ tags:
 categories:
   - Child Development
   - Capability approach
+  - Education
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

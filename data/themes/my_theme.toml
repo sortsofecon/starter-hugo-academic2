@@ -12,8 +12,8 @@ name = "my_theme"
   menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "#F0F2EF" 
-  home_section_even = "#F0F2EF"
+  home_section_odd = "#FFFFFF" 
+  home_section_even = "#FFFFFF"
   
   link = "#09BC8A"
   link_hover = "#E03616" # 悬停在link上时变化的颜色

@@ -16,4 +16,4 @@ name = "my_theme"
   home_section_even = "#F0EAD6"
   
   link = "#568203"
-  link_hover = "#E03616" # 悬停在link上时变化的颜色
+  link_hover = "#FC6C85" # 悬停在link上时变化的颜色

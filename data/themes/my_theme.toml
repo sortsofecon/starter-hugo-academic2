@@ -8,7 +8,7 @@ name = "my_theme"
   # Menu
   menu_primary = "#05472A" # dropdown menu 的颜色
   menu_text = "#fff" # dropdown 字体的颜色
-  menu_text_active = "#560591" # widget 选中时的颜色
+  menu_text_active = "#7F00FF" # widget 选中时的颜色
   menu_title = "#fff"
 
   # Home sections

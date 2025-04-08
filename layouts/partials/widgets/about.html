@@ -14,8 +14,15 @@
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
-
 <!-- About widget -->
+<!-- Footer image with precise centering that won't affect layout above -->
+<div style="display: flex; justify-content: center; width: 100%; margin: -1rem 0;">
+  <img
+    id="img1"
+    src="img/footer.png"
+    style="max-width: 800px; height: auto;"
+  />
+</div>
 
 <div class="row">
   <div class="col-12 col-lg-4">
@@ -73,30 +80,13 @@
       </ul>
     </div>
   </div>
-  <div class="row">
-  <div class="col-12 col-lg-4">
-    <!-- profile column as before -->
-  </div>
   <div class="col-12 col-lg-8">
     <div class="vertical-center" style="text-align: left;">
-      {{ if and $page.Params.widget $page.Title }}
-        <h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>
-      {{ end }}
+      {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+      {{ if and $page.Params.widget $page.Title }}<h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
       <div class="article-style">
         <div class="main-content">{{ $person_page.Content }}</div>
       </div>
     </div>
   </div>
 </div>
-
-<!-- Move the footer image here, directly below the bio row -->
-<div style="display: flex; justify-content: center; width: 100%; margin: 0.5rem 0;">
-  <img
-    id="img1"
-    src="img/footer.png"
-    style="max-width: 800px; margin-top: 0.5rem; margin-bottom: 0.5rem;"
-    alt="Footer graphic"
-  />
-</div>
-
-

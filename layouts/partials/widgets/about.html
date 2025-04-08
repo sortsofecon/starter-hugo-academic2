@@ -68,6 +68,19 @@
           </a>
         </li>
         {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+    <div class="vertical-center" align="justify">
+      {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+      {{ if and $page.Params.widget $page.Title }}<h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+      <div class="article-style">
+        <div class="main-content">{{ $person_page.Content }}</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- Footer image with precise centering that won't affect layout above -->
 <div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem;">

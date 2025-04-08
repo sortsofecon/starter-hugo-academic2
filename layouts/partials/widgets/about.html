@@ -75,24 +75,19 @@
   <div class="col-12 col-lg-1">
   </div>
   <div class="col-12 col-lg-7">
-    <div class="vertical-center", align="justify">
-      {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-      {{ if and $page.Params.widget $page.Title }}<h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
-      <div class="article-style">
-        <div class="main-content">{{ $person_page.Content }}</div>
-        <a class="btn btn-outline-primary btn-page-header btn-download" href="files/cv.pdf" target="_blank" rel="noopener">CV</a>
-      </div>
+  <div class="vertical-center" align="justify">
+    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    {{ if and $page.Params.widget $page.Title }}<h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+   <div class="article-style">
+      <div class="main-content">{{ $person_page.Content }}</div>
+      <a class="btn btn-outline-primary btn-page-header btn-download" href="files/cv.pdf" target="_blank" rel="noopener">CV</a>
     </div>
+  </div>
   </div>
 </div>
+</div><!-- This closing div matches with opening div of widget -->
 
-<!-- Add a new row for the footer image to maintain proper spacing -->
-<div class="row">
-  <div class="col-12" style="margin-top: 2rem;">
-    <div style="text-align: center;">
-      <a class="background-img" href="#img1">
-        <img id="img1" src="img/footer.png" style="max-width: 100%; height: auto;" />
-      </a>
-    </div>
-  </div>
+<!-- Footer image with precise centering that won't affect layout above -->
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem;">
+  <img id="img1" src="img/footer.png" style="max-width: 800px;" />
 </div>

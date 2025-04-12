@@ -13,7 +13,7 @@ draft: false
 featured: true
 tags:
 categories:
-  - Social capital theory
+  - Social capital
   - Population aging
   - Difference-in-Differences
   - Multilevel modeling

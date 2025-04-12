@@ -17,9 +17,10 @@ tags:
   - Preprint
 categories:
   - Human mobility
+  - Club convergence
   - COVID-19
   - Difference-in-Differences
-  - Club convergence
+  - Honest parallel trends testing
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

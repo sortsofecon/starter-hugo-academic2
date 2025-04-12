@@ -19,6 +19,8 @@ categories:
   - Child Development
   - Capability approach
   - Education
+  - Instrumental variables
+  - Multilevel modeling
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

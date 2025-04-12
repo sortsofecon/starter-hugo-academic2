@@ -17,7 +17,9 @@ categories:
   - Subjective Survival
   - Population aging
   - Difference-in-Differences
-  - Fixed effects
+  - Multilevel modeling
+  - Propensity score matching
+  - Factor analysis
 projects:
 image:
   filename:

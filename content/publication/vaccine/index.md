@@ -17,11 +17,10 @@ draft: false
 featured: true
 tags:
 categories:
-  - Descriptive Analysis
-  - Instrumental Variables
+  - Descriptive analysis
+  - Instrumental variables
   - Vaccine hesitancy
-  - Online Survey Data
-  - Baidu Mobility Index
+  - Human mobility
   - COVID-19
 projects:
 image:

@@ -14,7 +14,6 @@ featured: true
 tags:
 categories:
   - Social capital theory
-  - Subjective survival
   - Population aging
   - Difference-in-Differences
   - Multilevel modeling

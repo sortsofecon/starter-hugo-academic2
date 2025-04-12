@@ -19,8 +19,10 @@ categories:
   - Child Development
   - Capability approach
   - Education
+  - Fixed effects
   - Instrumental variables
   - Multilevel modeling
+  - Factor analysis
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

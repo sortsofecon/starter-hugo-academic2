@@ -18,6 +18,8 @@ categories:
   - Land expropriation
   - Education
   - Difference-in-Differences
+  - Mechanism analysis
+  - Spillover effects
 projects:
 image:
   filename:

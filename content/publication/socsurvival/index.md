@@ -14,7 +14,7 @@ featured: true
 tags:
 categories:
   - Social capital
-  - Population aging
+  - Subjective health
   - Difference-in-Differences
   - Multilevel modeling
   - Propensity score matching

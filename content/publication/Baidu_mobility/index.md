@@ -20,7 +20,7 @@ categories:
   - Club convergence
   - COVID-19
   - Difference-in-Differences
-  - Honest parallel trends testing
+  - HonestDiD
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

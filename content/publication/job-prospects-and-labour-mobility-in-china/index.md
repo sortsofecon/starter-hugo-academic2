@@ -39,6 +39,7 @@ categories:
   - Migration decision
   - Human mobility
   - Prospect theory
+  - Fixed effects
   - Generalized method of moments
   - Multilevel modeling
 projects:

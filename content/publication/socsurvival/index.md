@@ -17,6 +17,7 @@ categories:
   - Subjective Survival
   - Population aging
   - Difference-in-Differences
+  - Fixed effects
 projects:
 image:
   filename:

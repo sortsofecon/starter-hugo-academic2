@@ -13,8 +13,8 @@ draft: false
 featured: true
 tags:
 categories:
-  - Social capital
-  - Subjective health
+  - Health
+  - Subjective rating
   - Difference-in-Differences
   - Multilevel modeling
   - Propensity score matching

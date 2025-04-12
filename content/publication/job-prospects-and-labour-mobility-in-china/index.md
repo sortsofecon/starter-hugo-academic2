@@ -39,6 +39,8 @@ categories:
   - Migration decision
   - Human mobility
   - Prospect theory
+  - Generalized method of moments
+  - Multilevel modeling
 projects:
   - CHINEQUALJUSTICE
   - PoPMeD-SuSDeV

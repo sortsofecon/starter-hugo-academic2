@@ -17,11 +17,12 @@ draft: false
 featured: true
 tags:
 categories:
-  - Descriptive analysis
-  - Instrumental variables
+  - Health
+  - Subjective rating
   - Vaccine hesitancy
   - Human mobility
   - COVID-19
+  - Instrumental variables
 projects:
 image:
   filename:

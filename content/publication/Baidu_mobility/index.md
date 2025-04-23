@@ -4,9 +4,9 @@ subtitle: ""
 publication_types:
   - "3"
 authors:
-  - Huaxin Wang-Lu
-  - Mihály Tamás Borsi
-  - Octasiano Miguel Valerio Mendoza
+  - Huaxin Wang-Lu (XJTLU)
+  - Mihály Tamás Borsi (IQS-URL)
+  - Octasiano Miguel Valerio Mendoza (IQS-URL)
 author_notes: []
 doi: 10.2139/ssrn.4692985
 publication: SSRN

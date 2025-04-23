@@ -4,9 +4,9 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Huaxin Wang-Lu
-  - Flavio Comim
-  - Octasiano Miguel Valerio Mendoza
+  - Huaxin Wang-Lu (XJTLU)
+  - Flavio Comim (IQS-URL & Cambridge)
+  - Octasiano Miguel Valerio Mendoza (IQS-URL)
 author_notes: []
 doi: 10.1080/00220388.2024.2312831
 publication: Journal of Development Studies

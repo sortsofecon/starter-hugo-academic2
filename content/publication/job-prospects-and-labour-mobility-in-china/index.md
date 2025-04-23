@@ -4,8 +4,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Huaxin Wang-Lu
-  - Octasiano Miguel Valerio Mendoza
+  - Huaxin Wang-Lu (IQS-URL)
+  - Octasiano Miguel Valerio Mendoza (IQS-URL)
 author_notes: []
 doi: 10.1080/09638199.2022.2157463
 publication: Journal of International Trade & Economic Development

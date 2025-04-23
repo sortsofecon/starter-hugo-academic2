@@ -4,8 +4,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Dongqin Wang
-  - Huaxin Wang-Lu
+  - Dongqin Wang (NYU Shanghai)
+  - Huaxin Wang-Lu (XJTLU)
 author_notes: []
 doi:
 publication: Journal of Economic Behavior & Organization

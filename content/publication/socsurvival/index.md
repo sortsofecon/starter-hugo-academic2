@@ -7,7 +7,7 @@ authors:
   - Huaxin Wang-Lu
 author_notes: []
 doi:
-publication: Kyklos (Revise & Resubmit)
+publication:
 abstract:
 draft: false
 featured: true

@@ -32,7 +32,7 @@ experience:
     description:  |2-
         Responsibilities include but not limited to:
         
-        * Conducted original research in Economics and Population Health.
+        * Conducted original research about Human Development, Population Health, and the application of HeXie Management Theory.
         * Developed curricula and teaching materials.
         * Taught undergraduate and postgraduate courses.
         * Applied for research funding and grants.

@@ -3,7 +3,7 @@ title: Huaxin Wang-Lu
 role:
 bio: ""
 interests:
-  - Health Economics | Population Health
+  - Health Economics | Public Health
   - Human Development
   - Regional Science and Urban Economics
   - Applied Econometrics

@@ -16,6 +16,7 @@ abstract: China's Zero-COVID Policy imposed stringent restrictions on citizens' 
 draft: false
 featured: false
 tags:
+  - Gold Open Access
 categories:
   - Health
   - Subjective rating

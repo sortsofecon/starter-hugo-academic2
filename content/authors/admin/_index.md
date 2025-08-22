@@ -4,7 +4,7 @@ role:
 bio: ""
 interests:
   - Health Economics | Public Health
-  - Human Development
+  - Development Economics | Human Development
   - Regional Science and Urban Economics
   - Applied Econometrics
 social:

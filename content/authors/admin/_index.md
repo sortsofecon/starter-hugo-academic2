@@ -6,7 +6,6 @@ interests:
   - Health Economics | Public Health
   - Development Economics | Human Development
   - Regional Science and Urban Economics
-  - Applied Econometrics
 social:
   - icon: envelope
     icon_pack: fas

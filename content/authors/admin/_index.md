@@ -21,7 +21,7 @@ organizations:
   - name: Xi'an Jiaotong-Liverpool University
 education:
   courses:
-    - course: PhD in Business and Territorial Competitiveness (Economics Track)
+    - course: PhD in Business and Territorial Competitiveness (Specialization in Economics)
       institution: Ramon Llull University
       year: 2023
 email: huaxin.wanglu@gmail.com

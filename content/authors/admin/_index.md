@@ -6,6 +6,7 @@ interests:
   - Health Economics | Public Health
   - Development Economics | Human Development
   - Regional and Urban Economics
+  - Environmental Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +21,7 @@ organizations:
   - name: Xi'an Jiaotong-Liverpool University
 education:
   courses:
-    - course: PhD in Business and Territorial Competitiveness, Innovation and Sustainability
+    - course: PhD in Business and Territorial Competitiveness (Economics track)
       institution: Ramon Llull University
       year: 2023
 email: huaxin.wanglu@gmail.com

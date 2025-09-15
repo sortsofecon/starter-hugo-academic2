@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Health Economics | Public Health
   - Development Economics | Human Development
-  - Regional Science and Urban Economics
+  - Regional and Urban Economics
 social:
   - icon: envelope
     icon_pack: fas

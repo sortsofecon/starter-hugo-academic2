@@ -5,8 +5,8 @@ publication_types:
   - "2"
 authors:
   - Huaxin Wang-Lu (XJTLU)
-  - Mihály Tamás Borsi （URL）
-  - Octasiano Miguel Valerio Mendoza （URL）
+  - Mihály Tamás Borsi (URL)
+  - Octasiano Miguel Valerio Mendoza (URL)
 author_notes: []
 doi: 10.1080/21681376.2026.2668883
 publication: Regional Studies, Regional Science

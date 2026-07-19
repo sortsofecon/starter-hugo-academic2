@@ -3,8 +3,8 @@ title: Huaxin Wang-Lu
 role:
 bio: ""
 interests:
-  - Health Economics
-  - Human Development
+  - Health and Well-being
+  - Development Economics
   - Regional and Urban Economics
   - (occasionally) Environmental Economics
 social:

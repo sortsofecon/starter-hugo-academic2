@@ -8,7 +8,7 @@ authors:
   - Huaxin Wang-Lu (XJTLU)
 author_notes: []
 doi: 10.1016/j.jebo.2025.107031
-publication: Journal of Economic Behavior & Organization
+publication: Journal of Economic Behavior & Organization (ABS 3, ABDC A*)
 abstract: Land expropriation is common in developing countries to promote local development through resource allocation, yet rapid urbanization often leads local governments to seize farmland unilaterally. The benefits to households and the effects on child outcomes remain unclear. Exploiting the timing of exposure to farmland expropriation, we use a difference-in-differences design to examine its impact on children’s schooling rates and weekend housework in rural China. Our findings show that land expropriation increases school attendance by 5.2 percentage points, though it also raises children’s weekend housework time. These results are robust to alternative controls, heterogeneous treatment effects, and various confounding tests. This paper illuminates the consequences of regional resource allocation on child development and highlights the need for policymakers to adopt a nuanced approach in supporting children affected by land expropriation and similar policies.
 draft: false
 featured: false

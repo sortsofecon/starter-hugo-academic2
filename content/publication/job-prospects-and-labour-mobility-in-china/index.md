@@ -8,7 +8,7 @@ authors:
   - Octasiano Miguel Valerio Mendoza (IQS-URL)
 author_notes: []
 doi: 10.1080/09638199.2022.2157463
-publication: Journal of International Trade & Economic Development
+publication: Journal of International Trade & Economic Development (ABS 1, ABDC B)
 abstract: China's structural changes have brought new challenges to its regional
   employment structures, entailing labour redistribution. Until now, Chinese
   migration research with a forward-looking perspective and on bilateral

@@ -2,9 +2,9 @@
 title: Harmonizing Sovereign ESG Indicators with HeXie Management Theory
 subtitle: ""
 publication_types:
-"2"
+  - "2"
 authors:
-Huaxin Wang-Lu (XJTLU)
+  - Huaxin Wang-Lu (XJTLU)
 author_notes: []
 doi: ""
 publication: Sustainability Letters
@@ -13,15 +13,16 @@ draft: false
 featured: false
 tags:
 categories:
-HeXie Management Theory
-ESG
-Composite Index
+  - HeXie Management Theory
+  - ESG
+  - Composite Index
 projects:
 image:
-filename:
-focal_point: CENTER
-preview_only: false
-alt_text: ""
-caption: ""
+  filename:
+  focal_point: CENTER
+  preview_only: false
+  alt_text: ""
+  caption: ""
 date: 2026-09-16T00:00:00.000Z
 ---
+

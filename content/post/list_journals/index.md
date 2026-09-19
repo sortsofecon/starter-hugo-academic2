@@ -33,6 +33,7 @@ tags:
 categories:
 ---
 **Economics Journals:**
+
 Journal of Economic Behavior & Organization
 
 Review of Development Economics
@@ -46,9 +47,11 @@ Economic Change and Restructuring
 Journal of Chinese Economic and Business Studies
 
 **Finance Journals:**
+
 Journal of Behavioral and Experimental Finance
 
 **Health Journals:**
+
 BMJ Global Health
 
 BMC Public Health
@@ -56,6 +59,7 @@ BMC Public Health
 BMC Geriatrics
 
 **Journals in Other Fields:**
+
 Higher Education Policy
 
 Urban Affairs Review

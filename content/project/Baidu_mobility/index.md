@@ -6,7 +6,6 @@ authors:
   - Octasiano Miguel Valerio Mendoza
 tags:
   - Interactive Maps
-  - R Shiny
 categories:
   - Human mobility
   - Baidu

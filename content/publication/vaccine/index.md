@@ -33,3 +33,12 @@ image:
   caption: ""
 date: 2025-04-22
 ---
+
+<div style="width: 100%; height: 900px;">
+  <iframe
+    src="vaccine.pdf"
+    width="100%"
+    height="100%"
+    style="border: none;">
+  </iframe>
+</div>

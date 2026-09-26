@@ -34,3 +34,12 @@ image:
   caption: ""
 date: 2024-03-01
 ---
+
+<div style="width: 100%; height: 900px;">
+  <iframe
+    src="valuing-children.pdf"
+    width="100%"
+    height="100%"
+    style="border: none;">
+  </iframe>
+</div>

@@ -56,7 +56,7 @@ date: 2023-01-01
 
 <div style="width: 100%; height: 900px;">
   <iframe
-    src="job-prospects.pdf"
+    src="job-prospects-and-labour-mobility-in-china.pdf"
     width="100%"
     height="100%"
     style="border: none;">

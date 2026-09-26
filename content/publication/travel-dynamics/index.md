@@ -30,3 +30,12 @@ image:
   caption: ""
 date: 2026-05-28
 ---
+
+<div style="width: 100%; height: 900px;">
+  <iframe
+    src="travel-dynamics.pdf"
+    width="100%"
+    height="100%"
+    style="border: none;">
+  </iframe>
+</div>

@@ -28,7 +28,7 @@ date: 2026-09-16T00:00:00.000Z
 
 <div style="width: 100%; height: 900px;">
   <iframe
-    src="2026-09_SL_HeXie_Fulltext.pdf"
+    src="HeXie_ESG.pdf"
     width="100%"
     height="100%"
     style="border: none;">
